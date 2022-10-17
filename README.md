@@ -10,7 +10,7 @@ When creating our databases we were able to have a Movies database  and a Goofs 
 
 Once the databasees were created certain question we wanted answered  was : What goofs are in what movie?, Has the frequency of goofs increased/decreased in as filmaking technology advances, and Is there a correlation between ratings and goofs?. We were able to display the goofs taht were caught by fans and movie critics of more than 40000 movies.  When looking for a relation of more or less  goofs occurng over time it can be seen that many of the movies that came out in more recent years of our dataset have more goofs that movies that came out in a earlier yeas within the 1900s.  This could be due to many factors like what type of movie is such as action movie or a animated childrens movie, and when the movie came out.  With several movies being produced in the eraly 1900s offers less of a crowd to catch goofs and less people who have seen the movie in general. Lastly the popularity rating does not have an effect on the effect of goofs when looking at the most goofs by imdb_id we have used certain queries to search the movies with the most amount of goofs and their scroe,  and there is no corealtion as movies that have many goofs are rated at avg popularity rates.  
 
-
+![alt text]([https://github.com/nhle95/Project1_group4/blob/ac0bff691c9099853dc544b06ee3996eda48658e/output/Electric%20and%20Plug-in%20Hybrid%20Vehicle%20Registrations.jpeg?raw=true](https://github.com/ymichael14/Project2_Group4/blob/main/Project_Schema%20_Script/QuickDBD-Movie_GoofsSQL.png))
 
 
 
