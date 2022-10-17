@@ -1,4 +1,4 @@
-Movie Database by
+Movie Database by Mary Stewart, Nathan Skinner, Yonas Michael, Zachary Evans
 
 
  Our goal is to create a movie database with relevant information where users can search to find out where, if any, goofs exist in their favorite movies or tv shows. The user will be able to easily search for a movie or series by title and find any goofs, bloopers and other mistakes that made it into the final cut.
