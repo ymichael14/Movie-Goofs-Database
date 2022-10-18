@@ -13,9 +13,9 @@ Once the databasees were created certain question we wanted answered  was : What
 ![alt text](https://github.com/ymichael14/Project2_Group4/blob/cdeb25f5f2159ca3fb41f079998f643de26d1972/Project_Schema%20_Script/QuickDBD-Movie_GoofsSQL.png)
 
 
-![alt text](https://github.com/ymichael14/Project2_Group4/blob/cdeb25f5f2159ca3fb41f079998f643de26d1972/plots/goofs_by_year.png)
+![alt text](https://github.com/ymichael14/Project2_Group4/blob/main/plots/goofs_by_year.png)
 
 
-![alt text](https://github.com/ymichael14/Project2_Group4/blob/cdeb25f5f2159ca3fb41f079998f643de26d1972/plots/goofs_pop.png)
+![alt text](https://github.com/ymichael14/Project2_Group4/blob/main/plots/goofs_pop.png)
 
 
